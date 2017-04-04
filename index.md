@@ -2,7 +2,7 @@
 
 ## Application Goals
 
-ICS Book Market allows UHM students to buy and sell books with each other. Buyers can search for books and message sellers to set up a trasaction. Sellers can upload books they want to sell and make it easy for buyers to contact them. What makes this application unique is that it's only available to UHM students. Everything is connected to your myUH account. 
+ICS Book Market allows UHM students to buy and sell books with each other. Buyers can search for books and message sellers to set up a transaction. Sellers can upload books they want to sell and make it easy for buyers to contact them. What makes this application unique is that it's only available to UHM students. Everything is connected to your myUH account. This allows the application to be localized and avoids problems that general buy and sell applications run into.  
 
 ## Landing Page
 
