@@ -50,7 +50,7 @@ Allows potential buysers to send a message to the seller.
 # Installation
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, [download a copy of BowFolios](https://github.com/ics-software-engineering/meteor-application-template/archive/master.zip), or clone it using git.
+Second, [download a copy of ICSBookMarket](https://github.com/icsbookmarket/icsbookmarket.git), or clone it using git.
   
 Third, cd into the app/ directory and install libraries with:
 
