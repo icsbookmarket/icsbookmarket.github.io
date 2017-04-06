@@ -27,7 +27,13 @@ Displays a list of all the textbooks required in ICS major.
 
 Submit seller information and book details.
 
-<img class="ui image" src="/images/sell_books.png">
+<img class="ui image" src="/images/sell-books.png">
+
+## Your Books Page
+
+Shows all the books you put up for sale
+
+<img class="ui image" src="/images/your-books.png">
 
 ## Book Check Page
 
