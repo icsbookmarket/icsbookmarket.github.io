@@ -20,7 +20,7 @@ Landing Page has a short description/overview of the website.
 
 ## Login Page 
 
-<img class="ui image" src="/images/UHM-ICS-BM-Landing.png">
+<img class="ui image" src="/images/UHM-ICS-BM-Login.png">
 
 ## Home Page
 
