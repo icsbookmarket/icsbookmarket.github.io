@@ -30,7 +30,7 @@ Landing Page has a short description/overview of the website.
 
 Displays a list of all the textbooks required in ICS major.
 
-<img class="ui image" src="/images/browse_books.png">
+<img class="ui image" src="/images/browse_books_2.png">
 
 ## Sell Books Page
 
