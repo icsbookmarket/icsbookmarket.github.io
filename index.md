@@ -95,5 +95,6 @@ The goal of Milestone 2 was to implement the various collections needed for our 
 
 Milestone 2 was implemented as [BowFolio GitHub Milestone M2](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/2)
 
-The current deplyment of our application can be seen at [Meteor App Deployment](Ah Lim insert here)
+The current deplyment of our application can be seen at [Meteor App Deployment](https://galaxy.meteor.com/app/uhmicsbookmarket.meteorapp.com)
+
 
