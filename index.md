@@ -85,8 +85,12 @@ This milestone started on April 2, 2017 and ended on April 13, 2017.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
 
+Milestone 1 was implemented as [BowFolio GitHub Milestone M1](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/1)
+
 ## Milestone 2: Data Model Development
 
 This milestone started on April 14, 2017 and ended on April 25, 2017.
 
 The goal of Milestone 2 was to implement the various collections needed for our application into the underlying Mongo database. We also set off to implement the UH CAS authentication system as well as improving the functionality of our app.
+
+
