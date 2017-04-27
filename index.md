@@ -226,12 +226,15 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ## Milestone 2: Data Model Development
 
-This milestone started on April 14, 2017 and ended on April 25, 2017.
+This milestone started on April 14, 2017 and ended on April 26, 2017.
 
-The goal of Milestone 2 was to implement the various collections needed for our application into the underlying Mongo database. We also set off to implement the UH CAS authentication system as well as improving the functionality of our app.
+The goal of Milestone 2 was to implement the various collections needed for our application into the underlying Mongo database.
 
 Milestone 2 was implemented as [BowFolio GitHub Milestone M2](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/2)
 
 The current deplyment of our application can be seen at [Meteor App Deployment](https://galaxy.meteor.com/app/uhmicsbookmarket.meteorapp.com)
 
+![](images/m2-.png)
+
+Milestone 2 consisted of two issues, and progress was managed via the [BowFolio GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
 
