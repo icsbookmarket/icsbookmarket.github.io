@@ -202,6 +202,16 @@ This milestone started on April 2, 2017 and ended on April 13, 2017.
 
 The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
 
+Mockup for the following pages were implemented during M1:
+
+<img width="200px" src="images/UHM-ICS-BM-Landing.png"/>
+<img width="200px" src="images/UHM-ICS-BM-Login.png"/>
+<img width="200px" src="images/UHM-ICS-BM-Home.png"/>
+<img width="200px" src="images/browse_books_2.png"/>
+<img width="200px" src="images/book_check.png"/>
+<img width="200px" src="images/UHM-ICS-BM-Sell-Books.png"/>
+<img width="200px" src="images/UHM-ICS-BM-Your-Books.png"/>
+
 Milestone 1 was implemented as [UHMICSBookMarket GitHub Milestone M1](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/1)
 
 ## Milestone 2: Data Model Development
