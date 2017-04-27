@@ -212,11 +212,11 @@ Mockup for the following pages were implemented during M1:
 <img width="200px" src="images/UHM-ICS-BM-Sell-Books.png"/>
 <img width="200px" src="images/UHM-ICS-BM-Your-Books.png"/>
 
-Milestone 1 was implemented as [UHMICSBookMarket GitHub Milestone M1](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/1)
+Milestone 1 was implemented as [UHM ICS Book Market GitHub Milestone M1](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/1)
 
 ![](images/m1_completed_issues.png)
 
-Milestone 1 consisted of five issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/bowfolios/bowfolios/projects/1):
+Milestone 1 consisted of eight issues, and progress was managed via the [UHM ICS Book Market GitHub Project M1](https://github.com/icsbookmarket/uhmicsbookmarket/projects/1):
 
 ![](images/m1_issues.png)
 
@@ -230,13 +230,13 @@ This milestone started on April 14, 2017 and ended on April 26, 2017.
 
 The goal of Milestone 2 was to implement the various collections needed for our application into the underlying Mongo database.
 
-Milestone 2 was implemented as [BowFolio GitHub Milestone M2](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/2)
+Milestone 2 was implemented as [UHM ICS Book Market GitHub Milestone M2](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/2)
 
 The current deplyment of our application can be seen at [Meteor App Deployment](https://galaxy.meteor.com/app/uhmicsbookmarket.meteorapp.com)
 
 ![](images/m2_completed_issues.png)
 
-Milestone 2 consisted of two issues, and progress was managed via the [BowFolio GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
+Milestone 2 consisted of seven issues, and progress was managed via the [UHM ICS Book Market GitHub Project M2](https://github.com/icsbookmarket/uhmicsbookmarket/projects/2):
 
 ![](images/m2_issues.png)
 
