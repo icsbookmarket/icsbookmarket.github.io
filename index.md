@@ -32,39 +32,29 @@ ICSBookMarket is a Meteor application providing a convenient way to buy and sell
 
 ![](images/UHM-ICS-BM-Landing.png)
 
+Anyone with a UH account can login to ICSBookMarket by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password: 
 
-## Login Page 
+![](images/UHM-ICS-BM-Login.png)
 
-<img class="ui image" src="/images/UHM-ICS-BM-Login.png">
+Once authenticated, you can look up books for sale or post your own books for sale. 
 
-## Home Page
+![](images/UHM-ICS-BM-Home.png)
 
-<img class="ui image" src="/images/UHM-ICS-BM-Home.png">
+The "Browse Books" option displays a list of all the textbooks required for ICS majors.
 
-## Browse Books Page
+![](images/browse_books_2.png)
 
-Displays a list of all the textbooks required in ICS major.
+Selecting a particular textbook shows all posts that have that book up for sale.
 
-<img class="ui image" src="/images/browse_books_2.png">
+![](images/book_check.png)
 
-## Sell Books Page
+Students who want to post their textbooks for sale can fill out a form to specify the book, price, condition, and their contact information. 
 
-Submit seller information and book details.
+![](images/UHM-ICS-BM-Sell-Books.png)
 
-<img class="ui image" src="/images/UHM-ICS-BM-Sell-Books.png">
+After a sale has been published, the user will be redirected to their books page, showing all the books they have up for sale. Users are able to edit books for sale or delete the post entirely if it has been sold.  
 
-## Your Books Page
-
-Shows all the books you put up for sale
-
-<img class="ui image" src="/images/UHM-ICS-BM-Your-Books.png">
-
-## Book Check Page
-
-Shows a table with list of people who are selling the selected textbook.
-
-<img class="ui image" src="/images/book_check.png">
-
+![](images/UHM-ICS-BM-Your-Books.png)
 
 # Installation
 First, [install Meteor](https://www.meteor.com/install).
