@@ -214,7 +214,15 @@ Mockup for the following pages were implemented during M1:
 
 Milestone 1 was implemented as [UHMICSBookMarket GitHub Milestone M1](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/1)
 
-![](images/M1 Network.png)
+![](images/m1_network.png)
+
+Milestone 1 consisted of five issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/bowfolios/bowfolios/projects/1):
+
+![](images/m1_issues.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/m1_network.png)
 
 ## Milestone 2: Data Model Development
 
