@@ -214,6 +214,8 @@ Mockup for the following pages were implemented during M1:
 
 Milestone 1 was implemented as [UHMICSBookMarket GitHub Milestone M1](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/1)
 
+![](images/M1 Network.png)
+
 ## Milestone 2: Data Model Development
 
 This milestone started on April 14, 2017 and ended on April 25, 2017.
