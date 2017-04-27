@@ -214,7 +214,7 @@ Mockup for the following pages were implemented during M1:
 
 Milestone 1 was implemented as [UHMICSBookMarket GitHub Milestone M1](https://github.com/icsbookmarket/uhmicsbookmarket/milestone/1)
 
-![](images/m1_network.png)
+![](images/m1_completed_issues.png)
 
 Milestone 1 consisted of five issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/bowfolios/bowfolios/projects/1):
 
@@ -234,7 +234,13 @@ Milestone 2 was implemented as [BowFolio GitHub Milestone M2](https://github.com
 
 The current deplyment of our application can be seen at [Meteor App Deployment](https://galaxy.meteor.com/app/uhmicsbookmarket.meteorapp.com)
 
-![](images/m2-.png)
+![](images/m2_completed_issues.png)
 
 Milestone 2 consisted of two issues, and progress was managed via the [BowFolio GitHub Project M2](https://github.com/bowfolios/bowfolios/projects/2):
+
+![](images/m2_issues.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/m2_network.png)
 
