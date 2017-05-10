@@ -14,13 +14,12 @@
   * [Configuration](#configuration)
   * [Quality Assurance](#quality-assurance)
     * [ESLint](#eslint)
-    
-* [Development History](#development-history)
-  * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
-  * [Milestone 2: Data Model Development](#milestone-2-data-model-development)
-  * [Milestone 3: Connect UI to Data Model and End-User Testing](#milestone-3-connect-ui-to-data-model-and-end-user-testing)
-  * [End User Testing](#end-user-testing)
-  * [Galaxy Deployment](#galaxy-deployment)
+  * [Development History](#development-history)
+    * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
+    * [Milestone 2: Data Model Development](#milestone-2-data-model-development)
+    * [Milestone 3: Connect UI to Data Model and End-User Testing](#milestone-3-connect-ui-to-data-model-and-end-user-testing)
+    * [End User Testing](#end-user-testing)
+    * [Galaxy Deployment](#galaxy-deployment)
 
 # UH Manoa Student Book Market for ICS Students
 
@@ -282,11 +281,23 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ![](images/m2_network.png)
 
-<<<<<<< Updated upstream
 ## Milestone 3: Connect to UI and Data Model
  This milestone started April 27 and ended May 9, 2017.
  
  The goal of Milestone 3 was to combine the functionality between the user interface and the data collections. We also implemented issues that weren't addressed in Milestone 2.
+ 
+ Milestone 3 is implemented as [ICS Book Market Github Milestone M3](https://github.com/icsbookmarket/icsbookmarket/milestone/3):
+ 
+ ![](images/m3_closed_issues_1.png)
+ 
+ MileStone 3 consisted of 29 issues, 27 that were completed.
+ 
+ ![](images/m3_issues.png)
+ 
+ Each issue was implemented in its own branch, then merged to master when completed:
+ 
+ ![](images/m3_network_3.png)
+ 
  
  ## End User Testing
  
@@ -354,62 +365,3 @@ Some Remarks:
 * Everybody: "The edit and delete buttons don't work."
 * Mark: "Can be this a mobile app? I think more people would use their phones over a computer."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-=======
-## Milestone 3:
-
-![](images/m3_issues.png)
-
-![](images/m3_closed_issues_1.png)
-
-![](images/m3_closed_issues_2.png)
-
-![](images/m3_closed_issues_3.png)
-
-![](images/m3_network_1.png)
-
-![](images/m3_network_2.png)
-
-![](images/m3_network_3.png)
