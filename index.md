@@ -300,6 +300,15 @@ Each issue was implemented in its own branch, and merged into master when comple
  ![](images/m3_network_3.png)
  
  
+ ![](images/screenshots/login.png)
+ ![](images/screenshots/landing.png)
+ ![](images/screenshots/home.png)
+ ![](images/screenshots/add.png)
+ ![](images/screenshots/sell.png)
+ ![](images/screenshots/books.png)
+ ![](images/screenshots/available.png)
+ ![](images/screenshots/listings.png)
+ 
  ## End User Testing
  
 We asked six people to test our app out and give feedback on the design and functionality of the app. We had them try out the app and answer some questions regarding it. The six were:
@@ -368,11 +377,3 @@ Some Remarks:
 
 
 
-![](images/screenshots/login.png)
-![](images/screenshots/landing.png)
-![](images/screenshots/home.png)
-![](images/screenshots/add.png)
-![](images/screenshots/sell.png)
-![](images/screenshots/books.png)
-![](images/screenshots/available.png)
-![](images/screenshots/listings.png)
