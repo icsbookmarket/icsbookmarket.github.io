@@ -30,31 +30,45 @@ The ICS Book Market allows the students of UHM to buy and sell books with each o
 
 ICSBookMarket is a Meteor application providing a convenient way to buy and sell ICS textbooks amongst the University of Hawaii community. When you come to the site, you are greeted by the following landing page:
 
-![](images/UHM-ICS-BM-Landing.png)
+![](images/screenshots/landing.png)
+
+
+ 
+ 
+
+ 
+ 
+ 
+
 
 Anyone with a UH account can login to ICSBookMarket by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password: 
 
-![](images/authentication.png)
+![](images/screenshots/login.png)
 
 Once authenticated, you can look up books for sale or post your own books for sale. 
 
-![](images/UHM-ICS-BM-Home.png)
+![](images/screenshots/home.png)
 
 The "Browse Books" option displays a list of all the textbooks required for ICS majors.
 
-![](images/browse_books_2.png)
+![](images/screenshots/books.png)
 
 Selecting a particular textbook shows all posts that have that book up for sale.
-
+![](images/screenshots/available.png)
 ![](images/book_check.png)
 
 Students who want to post their textbooks for sale can fill out a form to specify the book, price, condition, and their contact information. 
 
-![](images/UHM-ICS-BM-Sell-Books.png)
+![](images/screenshots/sell.png)
 
 After a sale has been published, the user will be redirected to their books page, showing all the books they have up for sale. Users are able to edit books for sale or delete the post entirely if it has been sold.  
 
-![](images/UHM-ICS-BM-Your-Books.png)
+![](images/screenshots/listings.png)
+ 
+ As an administrator, you can update the textbooks that are listed.
+ 
+  ![](images/screenshots/add.png)
+ 
 
 # Installation
 First, [install Meteor](https://www.meteor.com/install).
