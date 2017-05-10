@@ -246,6 +246,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ![](images/m2_network.png)
 
+<<<<<<< Updated upstream
 ## Milestone 3: Connect to UI and Data Model
  This milestone started April 27 and ended May 9, 2017.
  
@@ -360,3 +361,20 @@ Some Remarks:
  
 
 
+=======
+## Milestone 3:
+
+![](images/m3_issues.png)
+
+![](images/m3_closed_issues_1.png)
+
+![](images/m3_closed_issues_2.png)
+
+![](images/m3_closed_issues_3.png)
+
+![](images/m3_network_1.png)
+
+![](images/m3_network_2.png)
+
+![](images/m3_network_3.png)
+>>>>>>> Stashed changes
