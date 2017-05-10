@@ -36,7 +36,7 @@ ICSBookMarket is a Meteor application providing a convenient way to buy and sell
 
 Anyone with a UH account can login to ICSBookMarket by clicking on the login button. The UH CAS authentication screen then appears and requests your UH account and password: 
 
-![](images/UHM-ICS-BM-Login.png)
+![](images/authentication.png)
 
 Once authenticated, you can look up books for sale or post your own books for sale. 
 
@@ -207,7 +207,7 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 Mockup for the following pages were implemented during M1:
 
 <img width="200px" src="images/UHM-ICS-BM-Landing.png"/>
-<img width="200px" src="images/UHM-ICS-BM-Login.png"/>
+<img width="200px" src="images/authentication.png"/>
 <img width="200px" src="images/UHM-ICS-BM-Home.png"/>
 <img width="200px" src="images/browse_books_2.png"/>
 <img width="200px" src="images/book_check.png"/>
@@ -313,9 +313,9 @@ Question 6: Would you rather have an in-app messenger to communicate with others
 * Celine: "I'd rather use email. I'd forget to check the app if there was an-app messenger."
 
 Some Remarks:
-* Mark: "The email to button should always be the mail icon because I can righ-click "copy address" when it's a button. This is the case especially with Windows computers that don't have a mail server pop up when I click on the mail button."
+* Mark: "The email to button should always be the mail icon because I can't righ-click "copy address" when it's a button. This is the case especially with Windows computers that don't have a mail server pop up when I click on the mail button."
 * Everybody: "The edit and delete buttons don't work."
-* Mark: "Can be this a mobile app? I think more people would use this on their phones rather than a computer"
+* Mark: "Can be this a mobile app? I think more people would use their phones over a computer."
 
 
 
