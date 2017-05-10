@@ -19,7 +19,9 @@
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
   * [Milestone 2: Data Model Development](#milestone-2-data-model-development)
-  * [Milestone 3: Connect UI to data model](#milestone-3-connect-ui-to-data-model)
+  * [Milestone 3: Connect UI to Data Model and End-User Testing](#milestone-3-connect-ui-to-data-model-and-end-user-testing)
+  * [End User Testing](#end-user-testing)
+  * [Galaxy Deployment](#galaxy-deployment)
 
 # UH Manoa Student Book Market for ICS Students
 
@@ -243,4 +245,118 @@ Milestone 2 consisted of seven issues, and progress was managed via the [UHM ICS
 Each issue was implemented in its own branch, and merged into master when completed:
 
 ![](images/m2_network.png)
+
+## Milestone 3: Connect to UI and Data Model
+ This milestone started April 27 and ended May 9, 2017.
+ 
+ The goal of Milestone 3 was to combine the functionality between the user interface and the data collections. We also implemented issues that weren't addressed in Milestone 2.
+ 
+ ## End User Testing
+ 
+ We asked six people to test our app out and give feedback on the design and functionality of the app. We had them try out the app and answer some questions regarding it. The six were:
+ 
+ * Vincent DiRienzo, Computer Science
+ * Tyler Chong, Computer Science
+ * Sean Takafuji, Computer Science
+ * Lancen Dac, Computer Science
+ * Mark Tenorio, Electrical Engineering
+ * Celine Chan, Computer Science
+ 
+ ICS Book Market Testing
+ 
+Question 1: What did you think of the app?
+* Vincent: "The app was not bad. The website is clean. The homepage is very nice. The add books and sell books pages up on the top were confusing."
+* Tyler: "Didn't work. Wish it expanded to all books."
+* Lancen: "Decent."
+* Mark: "Innovatve."
+* Sean: "Pretty good concept."
+* Celine: "It was cool. Nice idea."
+
+Question 2: Do you like the design? Is it intuitive, awkward, or...?
+* Vincent: "It looks like a basic website. But it's nice to look at, specifically the top menu."
+* Tyler: "It was very, semantic."
+* Lancen: "Pretty intuitive. You press the button, and you go there."
+* Mark: "It was smooth, not confusing. I like how there isn't any hover over dropdown menus as I don't like them."
+* Sean: "Design was nice."
+* Celine: "Intuitive, simple, and easy."
+
+Question 3: If this app had full functionality, would you use it?
+* Vincent: "I would use it, but it would on the userbase and how fast I can buy and sell books."
+* Tyler: "Anything is better than the bookstore."
+* Lancen: "If the app was free to use, I would use it to sell books."
+* Mark: "Yes."
+* Sean: "Probably."
+* Celine: "Yeah."
+
+Question 4: Would you sell books on this app over the buy back program the UHM BookStore offers?
+* Vincent: "Yes."
+* Tyler: "Yes."
+* Lancen: "Yes."
+* Mark: "Yes, the bookstore takes a huge cut out my books."
+* Sean: "Anything over selling back to the bookstore."
+* Celine: "Yes."
+
+Question 5: Would you this app to incorporate books from all majors at UH Manoa?
+* Vincent: "Yes, of course."
+* Tyler: "Yes."
+* Lancen: "ICS is a good start, but it's always great to expand."
+* Mark: "Maybe, I don't want it filled up with literature."
+* Sean: "No, only for STEM related textbooks."
+* Celine: "Yes."
+
+Question 6: Would you rather have an in-app messenger to communicate with others or have users directly message you by email?
+* Vincent: "Email, I check that all the time."
+* Tyler: "Email."
+* Lancen: "If there could be notifications on your phone/computer, an in-app messenger would be preferable."
+* Mark: "In-app messenger for security reasons. I don't want my uh email up on an app."
+* Sean: "In-app, I don't want people knowing my email account."
+* Celine: "I'd rather use email. I'd forget to check the app if there was an-app messenger."
+
+Some Remarks:
+* Mark: "The email to button should always be the mail icon because I can righ-click "copy address" when it's a button. This is the case especially with Windows computers that don't have a mail server pop up when I click on the mail button."
+* Everybody: "The edit and delete buttons don't work."
+* Mark: "Can be this a mobile app? I think more people would use this on their phones rather than a computer"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 
