@@ -101,8 +101,11 @@ client/
 imports/
   api/           # Define collection processing code (client + server side)
     base/
+    book/
+    bookforsale/
     interest/
     profile/
+    
   startup/       # Define code to run when system starts up (client-only, server-only)
     client/        
     server/        
@@ -133,12 +136,30 @@ This system accomplishes client and server-side importing in a different manner 
 Then, client/main.js and server/main.js are responsible for importing all the directories containing code they need. For example, here is the contents of client/main.js:
 ```
 import '/imports/startup/client';
-import '/imports/startup/both';
-import '/imports/api/stuff';
-import '/imports/ui/layouts';
 import '/imports/ui/components/form-controls';
-import '/imports/ui/pages';
+import '/imports/ui/components/directory';
+import '/imports/ui/components/user';
+import '/imports/ui/components/landing';
+import '/imports/ui/layouts/directory';
+import '/imports/ui/layouts/landing';
+import '/imports/ui/layouts/shared';
+import '/imports/ui/layouts/user';
+import '/imports/ui/pages/directory';
+import '/imports/ui/pages/filter';
+import '/imports/ui/pages/landing';
+import '/imports/ui/pages/user';
+import '/imports/ui/pages/browse-books';
+import '/imports/ui/pages/available-books';
+import '/imports/ui/pages/add-books';
+import '/imports/ui/pages/home';
+import '/imports/ui/pages/sell-books';
+import '/imports/ui/pages/your-books';
 import '/imports/ui/stylesheets/style.css';
+import '/imports/api/base';
+import '/imports/api/profile';
+import '/imports/api/interest';
+import '/imports/api/book';
+import '/imports/api/bookforsale';
 ```
 Apart from the last line that imports style.css directly, the other lines all invoke the index.js file in the specified directory.
 
@@ -166,6 +187,10 @@ Note that the user pages contain a menu fixed to the top of the page, and thus t
 
 ## Routing
 
+For display and navigation among its four pages, the application uses [Flow Router](https://github.com/kadirahq/flow-router).
+
+Routing is defined in [imports/startup/client/router.js](https://github.com/ics-software-engineering/meteor-application-template/blob/master/app/imports/startup/client/router.js).
+
 ## Authentication
 
 For authentication, the application uses the University of Hawaii CAS test server, and follows the approach shown in [meteor-example-uh-cas](http://ics-software-engineering.github.io/meteor-example-uh-cas/).
@@ -176,7 +201,19 @@ Anyone with a UH account can login and use UHMICSBookMarket to create a portfoli
 
 ## Authorization
 
+The landing page is public; anyone can access this page.
+
+All other pages require authorization. You must be authenticated via the UH test CAS server. Pages are accessed using the authenticated username which is then specified within the URL. 
+
+To prevent people from accessing pages they are not authorized to visit, template-based authorization is used following the recommendations in [Implementing Auth Logic and Permissions](https://kadira.io/academy/meteor-routing-guide/content/implementing-auth-logic-and-permissions).
+
 ## Configuration
+
+The [config](https://github.com/manoabookswap/manoabookswap/tree/master/config) directory is intended to hold settings files.  The repository contains one file: [config/settings.development.json](https://github.com/manoabookswap/manoabookswap/blob/master/config/settings.development.json).
+
+The [.gitignore](https://github.com/manoabookswap/manoabookswap/blob/master/.gitignore) file prevents a file named settings.production.json from being committed to the repository. So, if you are deploying the application, you can put settings in a file named settings.production.json and it will not be committed.
+
+ManoaBookSwap checks on startup to see if it has an empty database in [initialize-database.js](https://github.com/manoabookswap/manoabookswap/blob/master/app/imports/startup/server/initialize-database.js), and if so, loads the file specified in the configuration file, such as [settings.development.json](https://github.com/manoabookswap/manoabookswap/blob/master/config/settings.development.json).  For development purposes, a sample initialization for this database is in [initial-collection-data.json](https://github.com/manoabookswap/manoabookswap/blob/master/app/private/database/initial-collection-data.json).
 
 ## Quality Assurance
 
@@ -254,7 +291,7 @@ Each issue was implemented in its own branch, and merged into master when comple
  
  ## End User Testing
  
- We asked six people to test our app out and give feedback on the design and functionality of the app. We had them try out the app and answer some questions regarding it. The six were:
+We asked six people to test our app out and give feedback on the design and functionality of the app. We had them try out the app and answer some questions regarding it. The six were:
  
  * Vincent DiRienzo, Computer Science
  * Tyler Chong, Computer Science
