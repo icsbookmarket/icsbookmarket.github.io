@@ -17,7 +17,7 @@
   * [Development History](#development-history)
     * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
     * [Milestone 2: Data Model Development](#milestone-2-data-model-development)
-    * [Milestone 3: Connect UI to Data Model and End-User Testing](#milestone-3-connect-ui-to-data-model-and-end-user-testing)
+    * [Milestone 3: Connect UI to Data Model](#milestone-3-connect-ui-to-data-model)
     * [End User Testing](#end-user-testing)
     * [Galaxy Deployment](#galaxy-deployment)
 
@@ -282,6 +282,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 ![](images/m2_network.png)
 
 ## Milestone 3: Connect to UI and Data Model
+
  This milestone started April 27 and ended May 9, 2017.
  
  The goal of Milestone 3 was to combine the functionality between the user interface and the data collections. We also implemented issues that weren't addressed in Milestone 2.
