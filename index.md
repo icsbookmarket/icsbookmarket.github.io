@@ -281,7 +281,7 @@ Each issue was implemented in its own branch, and merged into master when comple
 
 ![](images/m2_network.png)
 
-## Milestone 3: Connect to UI and Data Model
+## Milestone 3: Connect UI to Data Model
 
  This milestone started April 27 and ended May 9, 2017.
  
