@@ -14,8 +14,7 @@
   * [Configuration](#configuration)
   * [Quality Assurance](#quality-assurance)
     * [ESLint](#eslint)
-    * [Data model unit tests](#data-model-unit-tests)
-    * [JSDoc](#JSDoc)
+    
 * [Development History](#development-history)
   * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
   * [Milestone 2: Data Model Development](#milestone-2-data-model-development)
