@@ -54,8 +54,8 @@ The "Browse Books" option displays a list of all the textbooks required for ICS 
 ![](images/screenshots/books.png)
 
 Selecting a particular textbook shows all posts that have that book up for sale.
+
 ![](images/screenshots/available.png)
-![](images/book_check.png)
 
 Students who want to post their textbooks for sale can fill out a form to specify the book, price, condition, and their contact information. 
 
@@ -67,7 +67,7 @@ After a sale has been published, the user will be redirected to their books page
  
  As an administrator, you can update the textbooks that are listed.
  
-  ![](images/screenshots/add.png)
+![](images/screenshots/add.png)
  
 
 # Installation
