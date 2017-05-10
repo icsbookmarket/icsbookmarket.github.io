@@ -377,4 +377,3 @@ Some Remarks:
 ![](images/m3_network_2.png)
 
 ![](images/m3_network_3.png)
->>>>>>> Stashed changes
