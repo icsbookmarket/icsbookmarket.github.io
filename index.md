@@ -18,7 +18,7 @@
     * [Milestone 1: Mockup Development](#milestone-1-mockup-development)
     * [Milestone 2: Data Model Development](#milestone-2-data-model-development)
     * [Milestone 3: Connect UI to Data Model](#milestone-3-connect-ui-to-data-model)
-    * [End User Testing](#end-user-testing)
+    * [User Testing](#user-testing)
     * [Galaxy Deployment](#galaxy-deployment)
 
 # UH Manoa Student Book Market for ICS Students
@@ -323,8 +323,8 @@ Each issue was implemented in its own branch, and merged into master when comple
  ![](images/screenshots/available.png)
  ![](images/screenshots/listings.png)
  
- ## End User Testing
- 
+## User Testing
+
 We asked six people to test our app out and give feedback on the design and functionality of the app. We had them try out the app and answer some questions regarding it. The six were:
  
  * Vincent DiRienzo, Computer Science
