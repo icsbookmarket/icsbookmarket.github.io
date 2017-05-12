@@ -323,7 +323,7 @@ Each issue was implemented in its own branch, and merged into master when comple
  ![](images/screenshots/available.png)
  ![](images/screenshots/listings.png)
  
- ### End User Testing
+ ## End User Testing
  
 We asked six people to test our app out and give feedback on the design and functionality of the app. We had them try out the app and answer some questions regarding it. The six were:
  
@@ -389,5 +389,7 @@ Some Remarks:
 * Everybody: "The edit and delete buttons don't work."
 * Mark: "Can this be a mobile app? I think more people would use their phones over a computer."
 
+## Galaxy Deployment
 
+Check out the deployment of our on Galaxy [here]()
 
