@@ -323,7 +323,7 @@ Each issue was implemented in its own branch, and merged into master when comple
  ![](images/screenshots/available.png)
  ![](images/screenshots/listings.png)
  
- ## End User Testing
+ ### End User Testing
  
 We asked six people to test our app out and give feedback on the design and functionality of the app. We had them try out the app and answer some questions regarding it. The six were:
  
@@ -387,7 +387,7 @@ Question 6: Would you rather have an in-app messenger to communicate with others
 Some Remarks:
 * Mark: "The email to button should always be the mail icon because I can't righ-click "copy address" when it's a button. This is the case especially with Windows computers that don't have a mail server pop up when I click on the mail button."
 * Everybody: "The edit and delete buttons don't work."
-* Mark: "Can be this a mobile app? I think more people would use their phones over a computer."
+* Mark: "Can this be a mobile app? I think more people would use their phones over a computer."
 
 
 
